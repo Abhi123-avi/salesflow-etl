@@ -3,6 +3,12 @@
 A Python and SQLite project that validates sales CSV data,
 generates daily SQL reports, and displays an interactive dashboard.
 
+## Live Demo
+[Open the SalesFlow Dashboard](https://abhi123-avi.github.io/salesflow-etl/)
+
+Interactive demo using sample data. Includes date filtering,
+sales sorting, and light/dark mode.
+
 ## Features
 - Detects duplicate rows and missing quantities.
 - Validates dates, required fields, quantities, and prices.
