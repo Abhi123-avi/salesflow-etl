@@ -1,0 +1,8 @@
+order_id,date,product,quantity,unit_price
+1001,2026-01-01,Keyboard,2,800
+1002,2026-01-01,Mouse,3,400
+1003,2026-01-02,Monitor,1,12000
+1003,2026-01-02,Monitor,1,12000
+1004,2026-01-02,USB Cable,2,200
+1005,2026-01-03,Laptop Stand,2,1500
+1006,2026-01-04,Headphones,2,1500
